@@ -1,0 +1,179 @@
+{
+  "seller": [
+    {
+      "name": "Bhavyam",
+      "email": "abcd@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "sam sidhu",
+      "password": "abc@123",
+      "email": "sam@seller.com",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "Fresh Toned Milk ",
+      "price": "25",
+      "category": "Dairy",
+      "color": "",
+      "description": "Get fresh milk daily",
+      "image": "https://s3.ap-south-1.amazonaws.com/diingdong/amul00002.jpg",
+      "id": 1
+    },
+    {
+      "name": "Apple",
+      "price": " 230",
+      "category": "Fruit",
+      "description": "Fresh Apples directly from farm",
+      "image": "https://i5.walmartimages.com/asr/7320e63a-de46-4a16-9b8c-526e15219a12_3.e557c1ad9973e1f76f512b34950243a3.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Lays ",
+      "price": "10",
+      "category": "Munchies",
+      "description": "The all new lays with 25% extra chips",
+      "image": "https://m.media-amazon.com/images/I/61TGmxFG8XL.jpg",
+      "id": 3
+    },
+    {
+      "name": "Choco Brownie Tub",
+      "price": "360",
+      "category": "Ice-Cream",
+      "description": "Kwality Wall's Choco Brownie Fudge ",
+      "image": "https://m.media-amazon.com/images/I/61fdx3j5BOL._SX522_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Oreo Bisuit",
+      "price": "50",
+      "category": "Biscuits",
+      "description": "All new oreo big pack 70g ",
+      "image": "https://www.bigbasket.com/media/uploads/p/xxl/1200588-7_1-cadbury-oreo-biscuit-vanilla-creme.jpg",
+      "id": 5
+    },
+    {
+      "name": "Coca-Cola",
+      "price": "100",
+      "category": "Cold drinks",
+      "description": "Pack of 6 cans, zero added sugar",
+      "image": "https://down-ph.img.susercontent.com/file/sg-11134201-23010-c941iri1vhmvfc_tn",
+      "id": 6
+    },
+    {
+      "name": "Tata Tea",
+      "price": "85",
+      "category": "Tea",
+      "description": "250gm best quality tea",
+      "image": "https://5.imimg.com/data5/BG/ZA/OV/SELLER-22139392/250-gm-tata-tea-500x500.jpg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Bhavyam",
+      "email": "bhavyam@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "ABC",
+      "email": "abc@gmail.com",
+      "password": "abcd1234",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Apple",
+      "price": " 230/kg",
+      "category": "Fruit",
+      "description": "Fresh Apples directly from farm",
+      "image": "https://i5.walmartimages.com/asr/7320e63a-de46-4a16-9b8c-526e15219a12_3.e557c1ad9973e1f76f512b34950243a3.jpeg",
+      "quantity": 2,
+      "productId": 2,
+      "userId": 5,
+      "id": 9
+    }
+  ],
+  "orders": []
+}
